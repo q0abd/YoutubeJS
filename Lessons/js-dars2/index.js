@@ -28,3 +28,8 @@
 //     console.log(ism);
 // }
 // console.log(ism);
+
+
+let num = 10;
+let name = 'Maks';
+let stundentmi = true || false
